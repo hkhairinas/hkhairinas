@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @hkhairinas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkhairinas&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkhairinas&hide=contribs,prs&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👀 I’m interested in Programming, Data Science and Games
 - 🌱 I’m currently learning data science to get my postgraduate degree.
